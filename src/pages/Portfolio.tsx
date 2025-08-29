@@ -12,7 +12,7 @@ const Portfolio = () => {
       category: "Web Development",
       description: "A comprehensive hotel management solution with rooms management, and hotel analytics.",
       technologies: ["React", "Node.js", "PostgreSQL", "WP", "Hostinger"],
-      image: "public/portfolio/saeedhousing.png",
+      image: "/portfolio/saeedhousing.png",
       liveUrl: "https://saeedhousing.co.uk/",
       githubUrl: "#",
       featured: true
@@ -23,7 +23,7 @@ const Portfolio = () => {
       category: "Custom Software",
       description: "A global digital health platform enabling real-time patient monitoring, records management, and data-driven insights.",
       technologies: ["Next.js", "React", "Node.js", "MongoDB", "Express", "Vercel"],
-      image: "public/portfolio/ibdem.png",
+      image: "/portfolio/ibdem.png",
       liveUrl: "https://ibdem.vercel.app/",
       githubUrl: "#",
       featured: true
@@ -34,7 +34,7 @@ const Portfolio = () => {
       category: "Custom Software",
       description: "Secure mobile banking application with biometric authentication and real-time transaction tracking.",
       technologies: ["React", "GPT Engineer", "Node.js"],
-      image: "public/portfolio/qr.png",
+      image: "/portfolio/qr.png",
       liveUrl: "https://qr-code-generator-288.vercel.app/",
       githubUrl: "#",
       featured: true
@@ -45,7 +45,7 @@ const Portfolio = () => {
       category: "Data Analytics Platform",
       description: "Advanced FMCSA carrier data analytics system with smart filtering, instant insights, and exportable reports tailored for trucking businesses.",
       technologies: ["Next.js","React", "Node.js", "MongoDB", "FMCSA API"],
-      image: "public/portfolio/carrier.png",
+      image: "/portfolio/carrier.png",
       liveUrl: "#",
       githubUrl: "#",
       featured: true
