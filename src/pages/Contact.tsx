@@ -52,7 +52,7 @@ const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
 
     try {
-      const response = await fetch("http://167.99.67.67:5050/contact/", {
+      const response = await fetch("https://nestnic-backend-server.onrender.com/contact/", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
